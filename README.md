@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Aspiring Full Stack Developer | 💻 Web Enthusiast</h3>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0077FF&height=200&section=header&text=Arulkumaran&fontSize=40&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0077FF&height=200&section=header&text=Arul+kumaran&fontSize=40&fontColor=ffffff"/>
 </p>
 
 <p align="center">

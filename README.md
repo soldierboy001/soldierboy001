@@ -46,7 +46,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="<a href="><img src="https://streak-stats.demolab.com?user=Arul%20kumaran&theme=dark&hide_border=true" alt="GitHub Streak" /></a>" />
+  <img src="<a href="><img src="https://streak-stats.demolab.com?user=Arul%20kumaran&theme=dark&hide_border=true"alt="GitHub Streak" /></a>" />
 </p>
 
 

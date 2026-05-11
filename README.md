@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arul kumaran</h1>
-<h3 align="center">🚀 Aspiring Full Stack Developer | 💻 Web Enthusiast</h3>
+<h3 align="center">🚀 Aspiring Tech support engineer | 💻 Web Enthusiast</h3>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0077FF&height=200&section=header&text=Arul+kumaran&fontSize=40&fontColor=ffffff"/>
@@ -14,7 +14,7 @@
 ## 🧑‍💻 About Me
 - 🎓 CSE Graduate passionate about technology    
 - 🧪 Exploring Software Testing  
-- 🔥 Interested in Full Stack & AI Projects & Software Testing 
+- 🔥 Interested in tech support & AI Projects & Software Testing 
 - 💡 Love solving real-world problems through code  
 - 🧠 Strong interest in clean code & problem solving  
  
